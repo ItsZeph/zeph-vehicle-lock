@@ -6,8 +6,8 @@ I was fed up with how vMenu sometimes forgets your Personal Vehicle, and therefo
 - Lockpicking via ox_target and an ox_lib skill check.
 
 # Prerequisites
-[ox_lib](https://github.com/overextended/ox_lib)
-[ox_target](https://github.com/overextended/ox_target)
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_target](https://github.com/overextended/ox_target)
 
 # Installation
 Installation is simple, just download the latest release, drop it into your Resources folder, and put `ensure zeph-vehicle-lock` in your server.cfg, configure it, then restart your server.
